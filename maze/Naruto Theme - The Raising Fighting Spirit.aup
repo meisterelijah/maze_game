@@ -1,0 +1,124 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Naruto Theme - The Raising Fighting Spirit_data" version="1.3.0" audacityversion="2.2.2" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="8.9867752926" zoom="1578.0966518225" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="TITLE" value="Naruto Theme - The Raising Fighting Spirit"/>
+		<tag name="ALBUM" value="youtube.com/watch?v=mjjkHg5FOhk"/>
+	</tags>
+	<wavetrack name="Naruto Theme - The Raising Fighting Spirit" channel="0" linked="1" mute="0" solo="0" height="136" minimized="0" isSelected="1" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="4343399">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808a48.au" len="211303" min="-1.030322" max="0.996905" rms="0.241976"/>
+				</waveblock>
+				<waveblock start="211303">
+					<simpleblockfile filename="e0808f15.au" len="262144" min="-1.000745" max="1.033132" rms="0.249486"/>
+				</waveblock>
+				<waveblock start="473447">
+					<simpleblockfile filename="e0808ffc.au" len="262144" min="-1.04023" max="1.049888" rms="0.249951"/>
+				</waveblock>
+				<waveblock start="735591">
+					<simpleblockfile filename="e08080d1.au" len="262144" min="-0.998497" max="1.005436" rms="0.252857"/>
+				</waveblock>
+				<waveblock start="997735">
+					<simpleblockfile filename="e08087b7.au" len="262144" min="-1.001775" max="1.056239" rms="0.262857"/>
+				</waveblock>
+				<waveblock start="1259879">
+					<simpleblockfile filename="e0808a45.au" len="262144" min="-1.04744" max="0.998815" rms="0.254352"/>
+				</waveblock>
+				<waveblock start="1522023">
+					<simpleblockfile filename="e0808f53.au" len="262144" min="-1.01819" max="1.017686" rms="0.260738"/>
+				</waveblock>
+				<waveblock start="1784167">
+					<simpleblockfile filename="e0808219.au" len="262144" min="-1.067858" max="1.08184" rms="0.265495"/>
+				</waveblock>
+				<waveblock start="2046311">
+					<simpleblockfile filename="e08085b6.au" len="262144" min="-1.068864" max="1.058331" rms="0.243452"/>
+				</waveblock>
+				<waveblock start="2308455">
+					<simpleblockfile filename="e0808995.au" len="262144" min="-0.985329" max="1.040705" rms="0.245177"/>
+				</waveblock>
+				<waveblock start="2570599">
+					<simpleblockfile filename="e0808ab0.au" len="262144" min="-1.171305" max="1.038575" rms="0.25732"/>
+				</waveblock>
+				<waveblock start="2832743">
+					<simpleblockfile filename="e0808562.au" len="262144" min="-1.054779" max="1.112982" rms="0.28771"/>
+				</waveblock>
+				<waveblock start="3094887">
+					<simpleblockfile filename="e08081a8.au" len="262144" min="-1.034108" max="1.07112" rms="0.260322"/>
+				</waveblock>
+				<waveblock start="3357031">
+					<simpleblockfile filename="e08089cc.au" len="262144" min="-1.043634" max="1.089128" rms="0.249238"/>
+				</waveblock>
+				<waveblock start="3619175">
+					<simpleblockfile filename="e080841b.au" len="262144" min="-1.031776" max="1.043514" rms="0.244317"/>
+				</waveblock>
+				<waveblock start="3881319">
+					<simpleblockfile filename="e0808514.au" len="262144" min="-0.971014" max="1.026924" rms="0.218096"/>
+				</waveblock>
+				<waveblock start="4143463">
+					<simpleblockfile filename="e080825c.au" len="199936" min="-0.024589" max="0.023682" rms="0.00154"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Naruto Theme - The Raising Fighting Spirit" channel="1" linked="0" mute="0" solo="0" height="164" minimized="0" isSelected="1" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="4343399">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808cb1.au" len="211303" min="-1.026272" max="1.138159" rms="0.237388"/>
+				</waveblock>
+				<waveblock start="211303">
+					<simpleblockfile filename="e0808d79.au" len="262144" min="-1.114672" max="1.049768" rms="0.251854"/>
+				</waveblock>
+				<waveblock start="473447">
+					<simpleblockfile filename="e08081d6.au" len="262144" min="-1.098851" max="1.135613" rms="0.247185"/>
+				</waveblock>
+				<waveblock start="735591">
+					<simpleblockfile filename="e0808c27.au" len="262144" min="-1.024232" max="1.014918" rms="0.244606"/>
+				</waveblock>
+				<waveblock start="997735">
+					<simpleblockfile filename="e080811b.au" len="262144" min="-1.046263" max="1.055344" rms="0.253197"/>
+				</waveblock>
+				<waveblock start="1259879">
+					<simpleblockfile filename="e0808a06.au" len="262144" min="-1.113401" max="1.190469" rms="0.253165"/>
+				</waveblock>
+				<waveblock start="1522023">
+					<simpleblockfile filename="e08086eb.au" len="262144" min="-1.033411" max="1.021987" rms="0.249235"/>
+				</waveblock>
+				<waveblock start="1784167">
+					<simpleblockfile filename="e0808948.au" len="262144" min="-1.169192" max="1.230781" rms="0.256026"/>
+				</waveblock>
+				<waveblock start="2046311">
+					<simpleblockfile filename="e0808e08.au" len="262144" min="-1.105486" max="1.046888" rms="0.241049"/>
+				</waveblock>
+				<waveblock start="2308455">
+					<simpleblockfile filename="e0808960.au" len="262144" min="-1.046198" max="1.085262" rms="0.239916"/>
+				</waveblock>
+				<waveblock start="2570599">
+					<simpleblockfile filename="e08084a1.au" len="262144" min="-1.109246" max="1.095362" rms="0.252617"/>
+				</waveblock>
+				<waveblock start="2832743">
+					<simpleblockfile filename="e08086c0.au" len="262144" min="-1.028926" max="1.075912" rms="0.282019"/>
+				</waveblock>
+				<waveblock start="3094887">
+					<simpleblockfile filename="e0808e36.au" len="262144" min="-1.048146" max="1.071899" rms="0.258231"/>
+				</waveblock>
+				<waveblock start="3357031">
+					<simpleblockfile filename="e080800a.au" len="262144" min="-1.171367" max="1.20504" rms="0.244729"/>
+				</waveblock>
+				<waveblock start="3619175">
+					<simpleblockfile filename="e080862f.au" len="262144" min="-1.079942" max="1.305494" rms="0.244144"/>
+				</waveblock>
+				<waveblock start="3881319">
+					<simpleblockfile filename="e0808124.au" len="262144" min="-1.0971" max="1.125909" rms="0.22829"/>
+				</waveblock>
+				<waveblock start="4143463">
+					<simpleblockfile filename="e080878c.au" len="199936" min="-0.033693" max="0.032086" rms="0.002575"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
